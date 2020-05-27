@@ -1,2 +1,0 @@
-# gradientwave
-Begin app
